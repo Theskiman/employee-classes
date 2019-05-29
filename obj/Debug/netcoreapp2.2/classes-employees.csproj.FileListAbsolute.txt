@@ -1,0 +1,11 @@
+C:\Users\Cliff\backend\classes-employees\obj\Debug\netcoreapp2.2\classes-employees.csprojAssemblyReference.cache
+C:\Users\Cliff\backend\classes-employees\obj\Debug\netcoreapp2.2\classes-employees.csproj.CoreCompileInputs.cache
+C:\Users\Cliff\backend\classes-employees\obj\Debug\netcoreapp2.2\classes-employees.AssemblyInfoInputs.cache
+C:\Users\Cliff\backend\classes-employees\obj\Debug\netcoreapp2.2\classes-employees.AssemblyInfo.cs
+C:\Users\Cliff\backend\classes-employees\bin\Debug\netcoreapp2.2\classes-employees.deps.json
+C:\Users\Cliff\backend\classes-employees\bin\Debug\netcoreapp2.2\classes-employees.runtimeconfig.json
+C:\Users\Cliff\backend\classes-employees\bin\Debug\netcoreapp2.2\classes-employees.runtimeconfig.dev.json
+C:\Users\Cliff\backend\classes-employees\bin\Debug\netcoreapp2.2\classes-employees.dll
+C:\Users\Cliff\backend\classes-employees\bin\Debug\netcoreapp2.2\classes-employees.pdb
+C:\Users\Cliff\backend\classes-employees\obj\Debug\netcoreapp2.2\classes-employees.dll
+C:\Users\Cliff\backend\classes-employees\obj\Debug\netcoreapp2.2\classes-employees.pdb
